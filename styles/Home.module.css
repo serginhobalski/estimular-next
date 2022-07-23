@@ -29,7 +29,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #f25316;
   text-decoration: none;
 }
 
@@ -56,6 +56,15 @@
   font-size: 1.5rem;
 }
 
+.btn-padrao {
+  background-color: #01012f;
+  color: #f25316;
+  padding: 10px;
+}
+.btn-padrao:hover {
+  background-color: #f25316;
+  color: #01012f;
+}
 .code {
   background: #fafafa;
   border-radius: 5px;
